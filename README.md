@@ -14,12 +14,11 @@
 由于本人公司注销,无法申请测试账号,近几年未完成v3版本的开发   
 希望有相关资质的朋友们提供测试账号让开源项目继续迭代  
 
-> 请联系QQ: 839024615 或 wx: aa24615 感谢
+> 请联系QQ: 879042886 或 wx: itinymeng 感谢
 
 ### 相关开源
-
-- [wework-msgaudit-php](https://github.com/aa24615/wework-msgaudit-php)	(php版 包含数据入库)
-- [wework-msgaudit-php-docker](https://github.com/aa24615/wework-msgaudit-php-docker)	(php版docker镜像 仅sdk调用接口)
+- [wework-chat-history](https://github.com/majiameng/wework-chat-history)	(php版，含数据入库，图形化)
+- [wework-msgaudit](https://github.com/majiameng/wework-msgaudit)	(Java版，含数据入库，无图形化)
 
 
 ### 功能
